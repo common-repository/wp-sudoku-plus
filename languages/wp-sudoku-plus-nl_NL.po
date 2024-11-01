@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Sudoku Plus\n"
+"POT-Creation-Date: 2016-01-30 15:58+0100\n"
+"PO-Revision-Date: 2016-01-30 16:01+0100\n"
+"Last-Translator: J.N. Breetvelt <OpaJaap@OpaJaap.nl>\n"
+"Language-Team: J.N. Breetvelt <OpaJaap@OpaJaap.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-sudoku-plus.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-sudoku-plus.php:119 wp-sudoku-plus.php:137 wp-sudoku-plus.php:558
+msgid "Security check failure"
+msgstr "Beveiligings fout"
+
+#: wp-sudoku-plus.php:376
+msgid "Puzzle"
+msgstr "Puzzel"
+
+#: wp-sudoku-plus.php:378 wp-sudoku-plus.php:438 wp-sudoku-plus.php:500
+msgid "Won"
+msgstr "Gewonnen"
+
+#: wp-sudoku-plus.php:383
+#, php-format
+msgid "Total times puzzle #%d has been solved"
+msgstr "Ttaal aantal keren dat puzzel #%d is opgelost"
+
+#: wp-sudoku-plus.php:387 wp-sudoku-plus.php:447 wp-sudoku-plus.php:501
+msgid "Lost"
+msgstr "Verloren"
+
+#: wp-sudoku-plus.php:392
+#, php-format
+msgid "Total times a visitor failed to solve puzzle #%d"
+msgstr "Totaal aantal keren dat een bezoeker puzzel #%d niet kon oplossen "
+
+#: wp-sudoku-plus.php:400 wp-sudoku-plus.php:498
+msgid "Level"
+msgstr "Niveau"
+
+#: wp-sudoku-plus.php:443
+#, php-format
+msgid "Total times a puzzle of level %d has been solved"
+msgstr "Totaal aantal keren dat een puzzel van niveau %d is opgelost"
+
+#: wp-sudoku-plus.php:452
+#, php-format
+msgid "Total times a visitor failed to solve a puzzle of level %d"
+msgstr ""
+"Totaal aantal keren dat een bezoeker een puzzel van niveau %d niet kon "
+"oplossen"
+
+#: wp-sudoku-plus.php:465
+msgid "Same"
+msgstr "Dezelfde"
+
+#: wp-sudoku-plus.php:471
+msgid "New"
+msgstr "Nieuw"
+
+#: wp-sudoku-plus.php:477
+msgid "Empty"
+msgstr "Leeg"
+
+#: wp-sudoku-plus.php:483
+msgid "Help"
+msgstr "Hulp"
+
+#: wp-sudoku-plus.php:494
+msgid "Click left to select, click right to remove option, type digit to show."
+msgstr ""
+"Klik links om te kiezen, rechts om te verwijderen; typ cijfer om te tonen."
+
+#: wp-sudoku-plus.php:495
+#, php-format
+msgid "There are %d puzzles available."
+msgstr "Er zijn %d puzzels beschikbaar."
+
+#: wp-sudoku-plus.php:499
+msgid "Total"
+msgstr "Totaal"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Sudoku Plus"
+msgstr "WP Sudoku Plus"
+
+#. Description of the plugin/theme
+msgid "Simple Sudoku"
+msgstr "Simple Sudoku"
+
+#. Author of the plugin/theme
+msgid "opajaap"
+msgstr "opajaap"
+
+#~ msgid "Rating"
+#~ msgstr "Niveau"

@@ -1,0 +1,91 @@
+# Translation of Development (trunk) in German
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-27 16:41+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"Project-Id-Version: Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+
+#: wp-sudoku-plus.php:119 wp-sudoku-plus.php:137 wp-sudoku-plus.php:558
+msgid "Security check failure"
+msgstr "Sicherheitsfehler"
+
+#: wp-sudoku-plus.php:376
+msgid "Puzzle"
+msgstr "Puzzle"
+
+#: wp-sudoku-plus.php:378 wp-sudoku-plus.php:438 wp-sudoku-plus.php:500
+msgid "Won"
+msgstr "Gewonnen"
+
+#: wp-sudoku-plus.php:383
+msgid "Total times puzzle #%d has been solved"
+msgstr "Insgesamt Mal Puzzle #%d gelöst wurde"
+
+#: wp-sudoku-plus.php:387 wp-sudoku-plus.php:447 wp-sudoku-plus.php:501
+msgid "Lost"
+msgstr "Verloren"
+
+#: wp-sudoku-plus.php:392
+msgid "Total times a visitor failed to solve puzzle #%d"
+msgstr "Insgesamt Mal, ein Puzzle aus Ebene %d würde nicht gelöst"
+
+#: wp-sudoku-plus.php:400 wp-sudoku-plus.php:498
+msgid "Level"
+msgstr "Level"
+
+#: wp-sudoku-plus.php:443
+msgid "Total times a puzzle of level %d has been solved"
+msgstr "Insgesamt Mal, ein Puzzle aus Ebene %d würde gelöst"
+
+#: wp-sudoku-plus.php:452
+msgid "Total times a visitor failed to solve a puzzle of level %d"
+msgstr "Insgesamt Mal, die ein Besucher es versäumt, ein Puzzle aus Ebene %d lösen"
+
+#: wp-sudoku-plus.php:465
+msgid "Same"
+msgstr "Selbe"
+
+#: wp-sudoku-plus.php:471
+msgid "New"
+msgstr "Neu"
+
+#: wp-sudoku-plus.php:477
+msgid "Empty"
+msgstr "Leer"
+
+#: wp-sudoku-plus.php:483
+msgid "Help"
+msgstr "Hilfe"
+
+#: wp-sudoku-plus.php:494
+msgid "Click left to select, click right to remove option, type digit to show."
+msgstr "Klicken Sie links zu auswählen, klicken Sie rechts um Option zu entfernen, Type ein Ziffer om zo zeigen."
+
+#: wp-sudoku-plus.php:495
+msgid "There are %d puzzles available."
+msgstr "Es gibt %d Rätsel zur Verfügung."
+
+#: wp-sudoku-plus.php:499
+msgid "Total"
+msgstr "Gesamt"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Sudoku Plus"
+msgstr "WP Sudoku Plus"
+
+#. Description of the plugin/theme
+msgid "Simple Sudoku"
+msgstr "Simple Sudoku"
+
+#. Author of the plugin/theme
+msgid "opajaap"
+msgstr "opajaap"

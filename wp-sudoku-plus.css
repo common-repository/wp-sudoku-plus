@@ -1,0 +1,60 @@
+/*
+wp-sudoku-plus/css
+*/
+
+#sud-container table {
+	margin-top:2px;
+	border:1px solid #cccccc;
+}
+#sud-container tr td {
+	padding:2px 4px;
+	border:1px solid #cccccc;
+}
+.sud-block-box {
+	box-sizing:border-box;
+	border:2px solid #777;
+	position:relative;
+	float:left;
+}
+.sud-item-box {
+	box-sizing:border-box;
+	border:1px solid #333;
+	position:relative;
+	float:left;
+	text-align:center;
+}
+.sud-navi-box {
+	box-sizing:border-box;
+	border:1px solid #333;
+	width:10%;
+	height:10%;
+	position:relative;
+	float:left;
+	text-align:center;
+	cursor:pointer;
+}
+.sud-button-box {
+	box-sizing:border-box;
+	border:1px solid #777;
+	position:absolute;
+	float:left;
+	text-align:center;
+	cursor:pointer;
+}
+#wp-sudoku-legenda, #wp-sudoku-rating, #wp-sudoku-help {
+	font-family:Helvetica;
+}
+#wp-sudoku-legenda, #wp-sudoku-help {
+}
+#wp-sudoku-help {
+	display:none;
+}
+#sud-ajaxspin {
+	visibility:hidden;
+	z-index:1;
+	position:absolute;
+	box-shadow:none !important;
+}
+.sud-small-spin {
+	box-shadow:none !important;
+}
